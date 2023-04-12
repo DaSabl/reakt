@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DaSabl/reakt.git/static/css/main.e6c13ad2.css",
+    "main.js": "/DaSabl/reakt.git/static/js/main.23ab30a8.js",
+    "static/js/787.39234feb.chunk.js": "/DaSabl/reakt.git/static/js/787.39234feb.chunk.js",
+    "index.html": "/DaSabl/reakt.git/index.html",
+    "main.e6c13ad2.css.map": "/DaSabl/reakt.git/static/css/main.e6c13ad2.css.map",
+    "main.23ab30a8.js.map": "/DaSabl/reakt.git/static/js/main.23ab30a8.js.map",
+    "787.39234feb.chunk.js.map": "/DaSabl/reakt.git/static/js/787.39234feb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.23ab30a8.js"
+  ]
+}
